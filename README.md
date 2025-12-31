@@ -1,0 +1,2 @@
+# BetterBingWallpaper
+一个自用的更好的BingWallPaper
